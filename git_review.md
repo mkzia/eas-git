@@ -8,3 +8,4 @@
 - You can commit the files changes -- `git commit -m "add meaningful message"`
 - You can check all the previous commits -- `git log`
 - You can undo changes to a file -- `git restore`
+- Create a new branch and switch to it -- `git checkout -b edits1`
